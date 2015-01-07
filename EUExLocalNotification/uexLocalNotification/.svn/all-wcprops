@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plugin3.0_ios/!svn/ver/998/trunk/code/public/EUExLocalNotification/uexLocalNotification
+END
+uexLocalNotification.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plugin3.0_ios/!svn/ver/708/trunk/code/public/EUExLocalNotification/uexLocalNotification/uexLocalNotification.dylib
+END
+libuexLocalNotification.a
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plugin3.0_ios/!svn/ver/998/trunk/code/public/EUExLocalNotification/uexLocalNotification/libuexLocalNotification.a
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plugin3.0_ios/!svn/ver/998/trunk/code/public/EUExLocalNotification/uexLocalNotification/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/plugin3.0_ios/!svn/ver/57/trunk/code/public/EUExLocalNotification/uexLocalNotification/plugin.xml
+END

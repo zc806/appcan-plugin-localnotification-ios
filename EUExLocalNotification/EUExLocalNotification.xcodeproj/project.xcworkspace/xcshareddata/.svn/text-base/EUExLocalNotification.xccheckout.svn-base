@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A5969ED-AF82-4931-8CCD-617A0F4927DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EUExLocalNotification</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BFCFAB8-0F68-4076-B742-07CDC3634325</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>public/EUExLocalNotification/EUExLocalNotification.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BFCFAB8-0F68-4076-B742-07CDC3634325</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9BFCFAB8-0F68-4076-B742-07CDC3634325</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.38/svn/Plugin3.0_IOS/trunk/code/public/EUExLocalNotification/EUExLocalNotification.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BFCFAB8-0F68-4076-B742-07CDC3634325</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BFCFAB8-0F68-4076-B742-07CDC3634325</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppCan3.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
